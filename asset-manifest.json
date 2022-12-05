@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/niteshcv/static/css/main.334e2245.css",
+    "main.js": "/niteshcv/static/js/main.b04ea683.js",
+    "static/media/about1.jpg": "/niteshcv/static/media/about1.e72cb2b8ece04fcd5e99.jpg",
+    "static/media/profile1.jpg": "/niteshcv/static/media/profile1.d9d9146e34089b89efce.jpg",
+    "static/media/nit-Cv.pdf": "/niteshcv/static/media/nit-Cv.c7d38f2dccbfa5a87d9e.pdf",
+    "index.html": "/niteshcv/index.html",
+    "main.334e2245.css.map": "/niteshcv/static/css/main.334e2245.css.map",
+    "main.b04ea683.js.map": "/niteshcv/static/js/main.b04ea683.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334e2245.css",
+    "static/js/main.b04ea683.js"
+  ]
+}
